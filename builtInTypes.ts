@@ -23,7 +23,7 @@ let myName = "Nisarg";
 let myDogName: string = "Fred";
 
 myName = true;
-// Yells at us coz length is a number
+// Yells at us coz length returns a number
 myName = "Laith Harb".length;
 myName = "Laith Harb".length === 0;
 
