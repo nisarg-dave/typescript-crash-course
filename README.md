@@ -1,2 +1,2 @@
-# typescript-crash-course
+# Typescript Crash Course
 Followed tutorial by Laith Harb on Typescript
